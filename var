@@ -1,0 +1,19 @@
+{
+        "aws_access_key": "AKIAXP4VBBRW2POTIJEA",
+        "aws_secret_key": "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",
+        "vpc_region": "us-east-1",
+        "vpc_id": "vpc-5a401720",
+        "vpc_public_sn_id": "subnet-91261df6",
+        "vpc_public_sg_id": "sg-841c09d7",
+        "source_ami": "ami-0ac80df6eff0e70b5",
+        "ssh_username": "ubuntu",
+        "ami_users": "515171748973,671972652283",
+        "ami_regions": "us-east-2",
+        "ami_plan": "t2.micro",
+        "device_name": "/dev/sda1",
+        "volume_size": "8",
+        "volume_type": "gp2",
+        "delete_on_termination": "true"
+
+ }
+
